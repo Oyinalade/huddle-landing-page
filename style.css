@@ -86,4 +86,9 @@ p {
     text-align:center;
     justify-content:center;
   }
+  .btn {
+    width: 15.2rem;
+    line-height: 2.5;
+    font-size: 20px;
+  }
 }
