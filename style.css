@@ -87,9 +87,9 @@ p {
     justify-content:center;
   }
   .btn {
-    width: 15.2rem;
-    line-height: 2.5;
-    font-size: 20px;
+    width: 25.2rem;
+    line-height: 3;
+    font-size: 25px;
   }
   h1 {
     font-size: 45px;
@@ -99,5 +99,8 @@ p {
   }
   .luove {
     margin: 0;
+  }
+  .icon {
+    padding-right: 0;
   }
 }
