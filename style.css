@@ -83,7 +83,7 @@ p {
   .fan {
     display: flex;
     flex-direction: column;
-    margin-top:2.8rem;
+    margin-right:2.8rem;
     
   }
 }
