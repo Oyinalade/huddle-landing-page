@@ -91,4 +91,8 @@ p {
     line-height: 2.5;
     font-size: 20px;
   }
+  .fan img{
+    width:509;
+    height:306;
+  }
 }
