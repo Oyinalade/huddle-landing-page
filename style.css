@@ -75,7 +75,7 @@ p {
   margin-left: 2rem;
   margin-top: 1.5rem;
 }
-/*@media (max-width: 375px) {
+@media (max-width: 375px) {
   body {
     background: url(images/bg-mobile.svg), hsl(257, 40%, 49%);
     background-repeat: no-repeat;
@@ -85,4 +85,4 @@ p {
     flex-direction: column;
     
   }
-}*/
+}
