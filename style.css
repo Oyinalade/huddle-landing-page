@@ -83,6 +83,8 @@ p {
   .fan {
     display: flex;
     flex-direction: column;
-    
+  }
+  .luove{
+    margin:0;
   }
 }
