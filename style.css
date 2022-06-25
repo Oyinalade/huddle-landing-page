@@ -83,9 +83,9 @@ p {
   .fan {
     display: flex;
     flex-direction: column;
+    text-align:center;
   }
   .luove{
     margin:0;
-    text-align:center;
   }
 }
