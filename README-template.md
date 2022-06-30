@@ -46,6 +46,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Oyindamola Alade](https://www.your-site.com)
+- Website - [](https://www.your-site.com)
 - Frontend Mentor - [@Oyinalade](https://www.frontendmentor.io/profile/Oyinalade)
 - Twitter - [@Oyinalade4](https://www.twitter.com/Oyinalade4)
